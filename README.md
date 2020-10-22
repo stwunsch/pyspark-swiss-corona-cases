@@ -11,6 +11,6 @@ conda activate analysis-env
 
 The notebook runs also on [Binder](https://mybinder.org/) thanks to the Conda [`environment.yml`](environment.yml) you may find in the repo. Click the following badge to start the notebook on Binder.
 
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stwunsch/pyspark-swiss-corona-cases/main)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stwunsch/pyspark-swiss-corona-cases/main?filepath=CoronaSwitzerland.ipynb)
 
 ![Swiss Corona cases analyzed with PySpark](plot.png)
