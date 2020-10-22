@@ -13,4 +13,4 @@ The notebook runs also on [Binder](https://mybinder.org/) thanks to the Conda [`
 
 [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stwunsch/pyspark-swiss-corona-cases/main?filepath=CoronaSwitzerland.ipynb)
 
-![Swiss Corona cases analyzed with PySpark](plot.png)
+![Swiss Corona cases analyzed with PySpark](All.png)
