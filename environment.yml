@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - pyspark
+  - openjdk
   - matplotlib
   - pandas
   - jupyter
