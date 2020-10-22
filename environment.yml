@@ -1,0 +1,11 @@
+name: analysis-env
+channels:
+  - conda-forge
+dependencies:
+  - pyspark
+  - matplotlib
+  - pandas
+  - jupyter
+  - pip
+  - pip:
+    - xlsx2csv
