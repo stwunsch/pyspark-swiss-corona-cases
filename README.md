@@ -9,7 +9,7 @@ conda env create -f environment.yml
 conda activate analysis-env
 ```
 
-The notebook runs also on [binder](https://mybinder.org/) thanks to the conda [`environment.yml`](environment.yml) you may find in the repo. Click the following badge to start the notebook on Binder.
+The notebook runs also on [Binder](https://mybinder.org/) thanks to the Conda [`environment.yml`](environment.yml) you may find in the repo. Click the following badge to start the notebook on Binder.
 
 [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stwunsch/pyspark-swiss-corona-cases/main)
 
